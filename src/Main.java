@@ -4,5 +4,5 @@ public class Main {
         int bonus = price / 20;
 
         System.out.println("Количество накопленных миль:" + bonus);
-          }
+    }
 }
